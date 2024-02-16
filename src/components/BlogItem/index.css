@@ -1,0 +1,42 @@
+/* Write your CSS code here */
+.list-item {
+  padding: 20px;
+  border: 1px solid #8e8e8e;
+  margin: 10px;
+  border-radius: 14px;
+}
+.list-item-image-text-container {
+  font-family: 'Roboto';
+  display: flex;
+  align-items: center;
+}
+.list-item-text-container {
+  margin-left: 10px;
+}
+.topic-text {
+  color: #8e8e8e;
+}
+.title-text {
+  font-size: 26px;
+}
+.author-text {
+  color: #8e8e8e;
+  margin-left: 4px;
+}
+.image-side {
+  height: 150px;
+  width: 200px;
+}
+.profile-image {
+  height: 40px;
+  border-radius: 40px;
+}
+.avatar-container {
+  display: flex;
+  align-items: center;
+}
+.link-style{
+  outline: none;
+  text-decoration: none;
+  color: #000000;
+}
